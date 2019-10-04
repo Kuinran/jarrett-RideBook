@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">jarrett-RideBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete_selected">Delete selected</string>
+    <string name="action_delete_selected_number">0</string>
+    <string name="empty_string">Looks like you don\'t have any rides recorded yet.</string>
+    <string name="total_distance_label">Total Distance</string>
+    <string name="total_distance_content">0</string>
+    <string name="action_edit">Edit ride</string>
+    <string name="action_delete">Delete ride</string>
+    <string name="title_distance">Distance</string>
+    <string name="title_speed">Speed</string>
+    <string name="title_cadence">Cadence</string>
+    <string name="title_comment">Comment</string>
+    <string name="error_not_number">Please enter a number</string>
+    <string name="error_comment_limit">Please keep comments to less than 20 characters</string>
+    <string name="edit_date_button">Edit date</string>
+    <string name="edit_time_button">Edit time</string>
+
+</resources>
